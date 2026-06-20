@@ -1,0 +1,12 @@
+title: NEON LOG
+description: Woxlin 的个人博客
+author: Woxlin
+email: Wxillure@foxmail.com
+url: "https://woxlin.github.io"
+baseurl: ""
+lang: zh-CN
+timezone: Asia/Shanghai
+permalink: /posts/:title/
+markdown: kramdown
+exclude:
+  - README.md
